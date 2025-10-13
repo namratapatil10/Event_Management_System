@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Surya Event Management</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="bootstrap.min.css">
+        <style>
+* {box-sizing: border-box;}
+body {font-family: Verdana, sans-serif;}
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+.active {
+  background-color: #717171;
+}
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+  .text-overlay {
+            position: absolute;
+            top: 40%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+            font-size: 60px;
+            font-weight: bold;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+        }
+  .text-overlay1{
+      position: absolute;
+            top: 60%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+            font-size: 30px;
+            font-weight: bold;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+  }
+</style>
+    </head>
+    <body>
+      <nav class="navbar navbar-expand-lg bg-info">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#"><img src="Image/logo.jpg" height="40" width="40">Surya Events </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="Admin_login.jsp">Admin Login</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="User_login.jsp">User Login</a>
+        </li>
+      </ul>
+      <form class="d-flex" role="search">
+        <input class="" type="search" placeholder="Search" aria-label="Search" class="form-control">
+        &nbsp;
+        <a class="btn btn-light" href="index.html">Search</a>
+      </form>
+    </div>
+  </div>
+</nav>
+            <section>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <img src="Image/Homepage1.jpg" height="70%" width="100%">
+                        <div class="text-overlay" style="color: white; font-family:Harlow Solid Italic; font-size:60px; text-align: left">Surya Event<br>Management</div>
+                    <div class="text-overlay1" style="color: white; font-family: Gabriola  ; font-size:30px; text-align: left">We are here to make your happy moments more happy...</div>
+                    </div>
+                </div>
+            </section>
+        <section id="about" style="background-color: whitesmoke; margin-top: -230px">
+            <div class="row">
+                <div class="col-sm-6">
+                    <img src="Image/About_us.jpg" height="400" width="650">
+                </div>
+                <div class="col-sm-6">
+                    <center> <h2><b>About Us</b></h2></center>
+                    <p>Welcome to Surya Event Management, your ultimate solution for seamless event planning and execution. Our platform is designed to simplify and streamline the complex tasks involved in organizing events, whether they’re corporate conferences, weddings, trade shows, or social gatherings.At Surya Event Management System , we offer a comprehensive suite of tools that allow you to plan, manage, and track every aspect of your event. From attendee registration and ticketing to venue selection, vendor coordination, and real-time event analytics, our system ensures that every detail is taken care of effortlessly.
+
+Our goal is to empower event organizers, planners, and businesses with the best technology to create unforgettable experiences. Whether you're a small event planner or a large enterprise, our user-friendly interface, customizable features, and dedicated support team are here to help you succeed.
+
+Join us today, and take the stress out of event planning with our surya event management system.
+</p> 
+                </div>
+            </div>
+            </section>
+            <br>
+            <br>
+            <section id="gallry" style=" padding:40px; background: linear-gradient(to bottom, #ff99cc 0%, #ccccff 100%);" >
+                 <center> <h2><b>Gallery</b></h2></center>
+                 <br>
+            <div class="row">
+                <div class="col-sm-3">
+                    <img src="Image/Engagement.jpg" height="280" width="230">
+                    <center> <p><b>Engagement</b></p></center>
+                </div>
+                <div class="col-sm-3">
+                    <img src="Image/Mehandi.jpg" height="280" width="230">
+                    <p><b><center>Mehandi</center></b></p>
+                </div>
+                 <div class="col-sm-3">
+                     <img src="Image/Haldi.webp" height="280" width="230">
+                     <p><b><center>Haldi</center></b></p>
+                </div>
+                <div class='col-sm-3'>
+                         <img src="Image/Sangeet.jpg" height="280" width="230">
+                         <p><b><center>Sangeet</center></b></p>
+                </div>
+            </div>
+                 <div class="row">
+                     <div class="col-sm-3">
+                         <img src="Image/Weeding1.jpg" height="280" width="230">
+                    <p><b><center>Wedding</center></b></p>
+                     </div>
+                     <div class="col-sm-3">
+                       <img src="Image/Reception1.jpg" height="280" width="230">
+                    <p><b><center>Reception</center></b></p>  
+                     </div>
+                     <div class="col-sm-3">
+                         <img src="Image/Baby Shower.jpg" height="280" width="230">
+                         <p><b><center>Baby Shower</center></b></p>
+                     </div>
+                     <div class="col-sm-3">
+                         <img src="Image/Naming Ceremony.jpg" height="280" width="230">
+                    <p><b><center>Naming Ceremony</center></b></p>
+                     </div>
+                 </div>
+            </section>
+            <br>
+            <section id="Whyus" style= "padding:50px; padding-left:60px; background-color: whitesmoke">
+                <h2><b><center>Our Services Include</b></center></h2>
+                <br>
+                <div class="row">
+                    <div class="col-sm-4">
+                        <img src="Image/Event-management.jpg" height="320" width="330">
+                        <h2>Event Management Services</h2>
+<p>We manage complete end to end event production for our clients, for virtual and physical events. All requirements for Design for Virtual Events along with Fabrication, AV Rentals, Sound and Light Equipments for on site events is provided by us.</p>
+                    </div>
+                    <div class="col-sm-4">
+                        <img src="Image/Event-planning.jpg" height="320" width="330">
+                        <h2>Event Planning Services</h2>
+                        <p>We help you plan your event by building an effective roadmap that helps detail out the step by step process involved from initial idea to final execution.</p>
+                    </div>
+                    <div class="col-sm-4">
+                        <img src="Image/Photo.jpg" height="310" width="330">
+                       <h2>Event Photo Production</h2>
+<p>We help create any brand paraphernalia required. We create concept driven short films about the company along with other material required for distribution to attendees. This may include brochures etc as well.</p>
+                    </div>
+                </div>
+            </section>
+            <br>
+           <section id="Contactus" style= "padding:50px; padding-left:60px; height: 550px; background-repeat: no-repeat; background-size: cover; background-image:url(Image/home.jpg) ">
+               <br>
+               <br>
+               <br>
+               <br>
+               <h2><b><center>YOU CAN TRUST US</b></center></h2>
+                <h1><b><center>CONTACT US</b></center></h1>
+
+            </section>
+    </body>
+</html>
+
