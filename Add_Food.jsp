@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Add_Food
-    Created on : 21 Feb, 2025, 7:08:38 PM
-    Author     : RUCHITA
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
