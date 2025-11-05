@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Add_Beverage
-    Created on : 21 Feb, 2025, 7:05:33 PM
-    Author     : RUCHITA
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
