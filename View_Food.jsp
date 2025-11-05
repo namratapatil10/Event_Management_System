@@ -1,8 +1,4 @@
-<%-- 
-    Document   : View_Food
-    Created on : 26 Feb, 2025, 12:16:00 PM
-    Author     : RUCHITA
---%>
+
 
 
 <%@page import="java.sql.ResultSet"%>
