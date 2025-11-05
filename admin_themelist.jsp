@@ -1,8 +1,4 @@
-<%-- 
-    Document   : admin_themelist
-    Created on : 26 Feb, 2025, 12:24:07 PM
-    Author     : RUCHITA
---%>
+
 
 <%@page import="java.sql.ResultSet"%>
 <%@page import="java.sql.DriverManager"%>
