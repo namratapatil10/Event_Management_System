@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Payment
-    Created on : 21 Feb, 2025, 9:10:39 PM
-    Author     : RUCHITA
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
