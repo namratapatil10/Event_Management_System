@@ -1,8 +1,4 @@
-<%-- 
-    Document   : admin_bookinglist
-    Created on : 26 Feb, 2025, 12:19:52 PM
-    Author     : RUCHITA
---%>
+
 
 
 <%@page import="java.sql.ResultSet"%>
