@@ -1,8 +1,4 @@
-<%-- 
-    Document   : View_Service
-    Created on : 26 Feb, 2025, 12:16:48 PM
-    Author     : RUCHITA
---%>
+
 
 
 <%@page import="java.sql.ResultSet"%>
