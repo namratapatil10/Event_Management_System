@@ -1,8 +1,3 @@
-<%-- 
-    Document   : admin_foodlist
-    Created on : 26 Feb, 2025, 12:22:36 PM
-    Author     : RUCHITA
---%>
 
 
 <%@page import="java.sql.ResultSet"%>
