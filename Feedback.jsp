@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Feedback
-    Created on : 22 Feb, 2025, 8:01:16 AM
-    Author     : RUCHITA
---%>
+
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
