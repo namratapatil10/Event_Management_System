@@ -1,8 +1,4 @@
-<%-- 
-    Document   : UPI
-    Created on : 22 Feb, 2025, 8:02:04 AM
-    Author     : RUCHITA
---%>
+
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
