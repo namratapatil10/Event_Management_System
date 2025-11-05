@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Booking
-    Created on : 22 Feb, 2025, 8:06:09 AM
-    Author     : RUCHITA
---%>
+
 
 <%@page import="java.util.Date"%>
 <%@page import="java.text.SimpleDateFormat"%>
