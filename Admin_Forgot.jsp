@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Admin_Forgot
-    Created on : 1 Mar, 2025, 2:21:06 PM
-    Author     : RUCHITA
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
