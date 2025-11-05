@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Add_Service
-    Created on : 21 Feb, 2025, 7:09:28 PM
-    Author     : RUCHITA
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
