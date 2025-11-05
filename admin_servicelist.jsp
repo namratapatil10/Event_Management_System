@@ -1,8 +1,4 @@
-<%-- 
-    Document   : admin_servicelist
-    Created on : 26 Feb, 2025, 12:23:23 PM
-    Author     : RUCHITA
---%>
+
 
 <%@page import="java.sql.ResultSet"%>
 <%@page import="java.sql.DriverManager"%>
