@@ -1,8 +1,3 @@
-<%-- 
-    Document   : admin_feedbacklist
-    Created on : 26 Feb, 2025, 12:21:50 PM
-    Author     : RUCHITA
---%>
 
 <%@page import="java.sql.ResultSet"%>
 <%@page import="java.sql.DriverManager"%>
