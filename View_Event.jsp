@@ -1,8 +1,4 @@
-<%-- 
-    Document   : View_Event
-    Created on : 26 Feb, 2025, 12:15:07 PM
-    Author     : RUCHITA
---%>
+
 
 <%@page import="java.sql.ResultSet"%>
 <%@page import="java.sql.DriverManager"%>
