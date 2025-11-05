@@ -1,8 +1,4 @@
-<%-- 
-    Document   : User_signup
-    Created on : 22 Feb, 2025, 8:05:16 AM
-    Author     : RUCHITA
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
