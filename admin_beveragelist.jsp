@@ -1,8 +1,4 @@
-<%-- 
-    Document   : admin_beveragelist
-    Created on : 26 Feb, 2025, 12:19:02 PM
-    Author     : RUCHITA
---%>
+
 
 <%@page import="java.sql.ResultSet"%>
 <%@page import="java.sql.DriverManager"%>
