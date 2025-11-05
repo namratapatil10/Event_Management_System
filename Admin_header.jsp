@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Admin_header
-    Created on : 27 Dec, 2024, 7:49:04 PM
-    Author     : RUCHITA
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
