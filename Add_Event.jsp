@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Add_Event
-    Created on : 21 Feb, 2025, 7:07:37 PM
-    Author     : RUCHITA
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
