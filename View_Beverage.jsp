@@ -1,8 +1,4 @@
-<%-- 
-    Document   : View_Beverage
-    Created on : 22 Feb, 2025, 8:07:39 AM
-    Author     : RUCHITA
---%>
+
 <%@page import="java.sql.ResultSet"%>
 <%@page import="java.sql.DriverManager"%>
 <%@page import="java.sql.Statement"%>
