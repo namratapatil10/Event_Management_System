@@ -1,8 +1,3 @@
-<%-- 
-    Document   : Admin_login
-    Created on : 21 Feb, 2025, 7:11:31 PM
-    Author     : RUCHITA
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
